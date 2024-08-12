@@ -12,5 +12,5 @@ Ao descer a página inicial, vai aparecer parágrafos e algumas imagens se moven
 
 E por fim, tem o rodapé, onde contém o link do email do criador da página, o nome dos participantes e o link para a página "nós", o GitHub e para o site do Agrinho.
 
-Infelizmente esse repositório deu problema e então mudei para um que está dentro de todos os regulamentos:  https://github.com/AnaMeloLi/Agrinho2024   (esse está com todas as alterações e os prazos corretos).
+Infelizmente esse repositório deu problema então mudei para um que está dentro de todos os regulamentos:  https://github.com/AnaMeloLi/Agrinho2024   (esse está com todas as alterações e os prazos corretos).
 
